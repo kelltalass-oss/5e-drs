@@ -444,6 +444,9 @@ Vous ne pouvez pas utiliser les différentes versions de cette aptitude si votre
 Au niveau 20, vous ne faite plus qu'un avec votre Sire. Vous devenez son avatar, c'est-à-dire la manifestation physique de son esprit. Si vous mourez, votre corps disparaît au round suivant. Huit heures plus tard, vous apparaissez aux côtés de votre Sire, à moins que l'objet n'ait été détruit entre-temps ou qu'un sort de souhait soit utilisé pour vous en empêcher. Vous revenez à la vie avec tous vos PV et en ayant complété un repos long. Toutes les mutilations qui ont pu être infligées à votre corps ou à votre cadavre depuis votre dernière réincarnation disparaissent.
 
 ### Serment de justice
+§§§ .source .font-italic
+Source : Warlock Grimoire - Kobold Press
+§§§
 #### Préceptes de justice
 Tous les paladins de la justice font respecter la loi d'une manière ou d'une autre, mais leur serment diffère en fonction de leur poste. Un paladin au service d'une reine respecte des principes légèrement différents de ceux d'un paladin au service d'une petite ville.
 
